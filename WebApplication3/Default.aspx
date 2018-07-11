@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
-        <p class="lead">Tabish Bhatti is the best in the west!.</p>
+        <p class="lead">Tabish Bhatti is the best in the west!...............................</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
